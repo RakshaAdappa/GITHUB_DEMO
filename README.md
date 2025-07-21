@@ -1,4 +1,4 @@
-# GITHUB_DEMO
+```bash
 Student-Project-Repo/
 ├── Code/
 │   └── (students upload their code)
