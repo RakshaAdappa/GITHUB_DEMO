@@ -1,7 +1,7 @@
 ```bash
 Student-Project-Repo/
 ├── Code/
-│   └── (students upload their code)
+│   └── (students upload their OWN code)
 ├── Report/
 │   └── (students upload their report)
 ├── Evaluation/
